@@ -20,10 +20,10 @@ platformdirs==2.5.4
 proglog==0.1.10
 pylint==2.15.6
 pymongo==4.3.3
-requests==2.28.1
+requests==2.32.4
 tomli==2.0.1
 tomlkit==0.11.6
 tqdm==4.64.1
 typing-extensions==4.4.0
-urllib3==1.26.12
+urllib3==2.5.0
 wrapt==1.14.1
